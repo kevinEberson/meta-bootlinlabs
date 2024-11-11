@@ -10,15 +10,15 @@ Dependencies
 ============
 
 Poky:
-  URI: https://git.yoctoproject.org/git/poky
+  URI: https://git.yoctoproject.org/git/poky\
   branch: kirkstone-4.0.5
 
 meta-ti:
-  URI: https://git.yoctoproject.org/git/meta-ti
+  URI: https://git.yoctoproject.org/git/meta-ti\
   commit id: 2a5a0339d5bd28d6f6aedaf02a6aaa9b73a248e4
   
 meta-arm:
-  URI: https://git.yoctoproject.org/git/meta-arm
+  URI: https://git.yoctoproject.org/git/meta-arm\
   branch: yocto-4.0.1
 
 Patches
@@ -29,8 +29,8 @@ Please submit any patches against the meta-bootlinlabs via a pull request in thi
 Table of Contents
 =================
 
-  I. Adding the meta-bootlinlabs layer to your build
-  II. Misc
+  I. Adding the meta-bootlinlabs layer to your build\
+ II. Misc
 
 
 I. Adding the meta-bootlinlabs layer to your build
