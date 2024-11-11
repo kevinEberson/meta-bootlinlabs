@@ -10,16 +10,16 @@ Dependencies
 ============
 
 Poky:
-  URI: https://git.yoctoproject.org/git/poky
-  \branch: kirkstone-4.0.5
+  URI: https://git.yoctoproject.org/git/poky \
+  branch: kirkstone-4.0.5
 
 meta-ti:
-  URI: https://git.yoctoproject.org/git/meta-ti
-  \commit id: 2a5a0339d5bd28d6f6aedaf02a6aaa9b73a248e4
+  URI: https://git.yoctoproject.org/git/meta-ti \
+  commit id: 2a5a0339d5bd28d6f6aedaf02a6aaa9b73a248e4
   
 meta-arm:
-  URI: https://git.yoctoproject.org/git/meta-arm
-  \branch: yocto-4.0.1
+  URI: https://git.yoctoproject.org/git/meta-arm \
+  branch: yocto-4.0.1
 
 Patches
 =======
