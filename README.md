@@ -30,7 +30,7 @@ Table of Contents
 =================
 
   I. Adding the meta-bootlinlabs layer to your build
- II. Misc
+  II. Misc
 
 
 I. Adding the meta-bootlinlabs layer to your build
